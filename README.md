@@ -8,6 +8,4 @@ The end goal is to hopefully work in plugin development or some intersection of 
 
 Outside of that, I make electronic music as [a.pathrose](https://soundcloud.com/apathrose) and YouTube videos about Tetris as [chronosaga](https://www.youtube.com/chronosaga). 
 
-Thanks for reading, and if you're an employer, my resume will be here soon. 
-
-My email is chronosaganet@gmail.com. 
+Thanks for reading, and if you're an employer, my resume will be here soon. In the meantime, my email is chronosaganet@gmail.com. 
