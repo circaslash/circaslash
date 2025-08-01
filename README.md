@@ -1,6 +1,6 @@
 # Hi! Hello!
 
-Welcome to my GitHub. Legally, I'm श्री but I go by Aero online.
+Welcome to my GitHub!
 
 I'm a student at the Berklee College of Music pursuing the Electronic Production and Design major along with the Creative Coding minor. You'll see a lot of projects dedicated to that over here. 
 
