@@ -8,4 +8,4 @@ In the future, I plan to upload all of my programming projects (games, plugins, 
 
 Outside of that, I make electronic music as [a.pathrose](https://soundcloud.com/apathrose) and YouTube videos about Tetris as [chronosaga](https://www.youtube.com/chronosaga). I also help with [Cambridge](https://github.com/cambridge-stacker/cambridge), an open source block stacker.
 
-Thanks for reading! If you're an employer. In the meantime, my email is chronosaganet@gmail.com. 
+Thanks for reading!
